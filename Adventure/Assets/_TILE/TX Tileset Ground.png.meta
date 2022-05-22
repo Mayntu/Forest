@@ -38,6 +38,15 @@ TextureImporter:
   - first:
       213: -7833218270530847676
     second: TX Tileset Ground_14
+  - first:
+      213: -9164348248706466934
+    second: TX Tileset Ground_15
+  - first:
+      213: -347825661036356991
+    second: TX Tileset Ground_16
+  - first:
+      213: -1766223703499644226
+    second: TX Tileset Ground_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -441,7 +450,7 @@ TextureImporter:
         width: 64
         height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -449,6 +458,69 @@ TextureImporter:
       bones: []
       spriteID: 44cb8e03c71da4390800000000000000
       internalID: -7833218270530847676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Ground_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb0e592d1b1d080800000000000000
+      internalID: -9164348248706466934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Ground_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1
+        width: 92
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a992677664c2bf0800000000000000
+      internalID: -347825661036356991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Ground_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 407
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2670746ec1d77e0800000000000000
+      internalID: -1766223703499644226
       vertices: []
       indices: 
       edges: []
